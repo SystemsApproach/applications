@@ -305,6 +305,8 @@ did eventually evolve into the Lightweight Directory Access Protocol
 to X.500. Today, widely used, mostly at the enterprise level, as a
 system for learning information about users.
 
+{% include "../sidebars/naming.md" %}
+
 ### Name Resolution
 
 Given a hierarchy of name servers, we now consider the issue of how a

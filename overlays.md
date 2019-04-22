@@ -364,6 +364,8 @@ unanswered.
 > turn, provides new capabilities that are of value to some set of users,
 > applications, or higher-level networks.
 
+{% include "../sidebars/ossification.md" %}
+
 ## Peer-to-Peer Networks
 
 Music-sharing applications like Napster
