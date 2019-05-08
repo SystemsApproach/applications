@@ -354,7 +354,9 @@ paths swamp the network, and does anyone see improved behavior when
 many RONs compete for the same paths? These questions are still
 unanswered.
 
-> [!Note|style:flat|label:Key Takeaway|iconVisibility:hidden]
+<!--- [!Note|style:flat|label:Key Takeaway|iconVisibility:hidden] --->
+> **Key Takeaway**
+>
 > All of these overlays illustrate a concept that is central to computer
 > networks in general: *virtualization*. That is, it is possible to build
 > a virtual network from abstract (logical) resources on top of a physical

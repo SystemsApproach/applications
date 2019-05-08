@@ -383,7 +383,9 @@ names before sending out a query.
 	show the sequence of steps in the process.</figcaption>
 </figure>
 
-> [!Note|style:flat|label:Key Takeaway|iconVisibility:hidden]
+<!--- [!Note|style:flat|label:Key Takeaway|iconVisibility:hidden] --->
+> **Key Takeaway**
+>
 > Just to make sure we are clear, we have now seen three different levels
 > of identifiers—domain names, IP addresses, and physical network
 > addresses—and the mapping of identifiers at one level into identifiers
