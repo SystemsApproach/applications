@@ -394,7 +394,6 @@ community of users to pool their resources (content, storage, network
 bandwidth, disk bandwidth, CPU), thereby providing access to a larger
 archival store, larger video/audio conferences, more complex searches
 and computations, and so on than any one user could afford individually.
->>>>>>> master:overlays.rst
 
 Quite often, attributes like *decentralized* and *self-organizing* are
 mentioned when discussing peer-to-peer networks, meaning that individual
