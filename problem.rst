@@ -1,9 +1,5 @@
-# {{ page.title }}
-
-> Now this is not the end. It is not even the beginning of the end. But
-> it is, perhaps, the end of the beginning. *—Winston Churchill*
-
-## Problem: Applications Need Their Own Protocols
+Problem: Applications Need Their Own Protocols
+----------------------------------------------
 
 We started this book by talking about application programs—everything
 from web browsers to videoconferencing tools—that people want to run
@@ -11,14 +7,14 @@ over computer networks. In the intervening chapters, we have developed,
 one building block at a time, the networking infrastructure needed to
 make such applications possible. We have now come full circle, back to
 network applications. These applications are part network protocol (in
-the sense that they exchange messages with their peers on other machines)
-and part traditional application program (in the sense that they
-interact with the windowing system, the file system, and ultimately the
-user). This chapter explores some popular network applications
+the sense that they exchange messages with their peers on other
+machines) and part traditional application program (in the sense that
+they interact with the windowing system, the file system, and ultimately
+the user). This chapter explores some popular network applications
 available today.
 
-Looking at applications drives home the *systems approach* that we
-have emphasized throughout this book. That is, the best way to build
+Looking at applications drives home the *systems approach* that we have
+emphasized throughout this book. That is, the best way to build
 effective networked applications is to understand the building blocks
 that a network can provide and how those blocks can interact with each
 other. Thus, for example, a particular networked application might need
